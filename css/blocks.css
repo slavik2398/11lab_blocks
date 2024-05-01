@@ -1,0 +1,10 @@
+body {
+    background-color: lightcoral;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+p {
+    background-color: navajowhite;
+    font-size: 30px;
+    color: cornflowerblue;
+    text-align: center;
+}
